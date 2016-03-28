@@ -15,9 +15,9 @@ chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
 
 ---
 
-# It's all in the game.
+# It's all in the game. [^1]
 
-## You come at the king, you best not miss.
+## You come at the king, you best not miss. [^1]
 
 ### Be subtle with it, man. You know what subtle means?
 
@@ -42,3 +42,4 @@ class User < ActiveRecord::Base
 end
 
 {% endhighlight %}
+[^1]: *The Wire*
