@@ -4,7 +4,7 @@ title: ¿De qué va este blog?
 categories:
 - blog
 ---
-> **por Pablo M. Rodríguez**
+> por Pablo M. Rodríguez
 
 <font face="Times New Roman" style="font-size:19px"> 
 Me sorprende que escaseen los blogs divulgativos sobre Criminología en español, de ahí que esté escribiendo estas líneas sin mayor propósito que dotar de contenido a una primera entrada que no está respondiendo con claridad a la pregunta que tiene por título.
