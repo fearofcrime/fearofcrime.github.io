@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-<center> Los astrónomos han encontrado un nuevo objeto transneptuniano cuya órbita se puede explicar con la existencia de un Planeta X, el hipotético noveno planeta del Sistema Solar. La probabilidad de que sea una casualidad estadística, dicen desde Caltech, se ha reducido a un ~0,001%.
+-> Los astrónomos han encontrado un nuevo objeto transneptuniano cuya órbita se puede explicar con la existencia de un Planeta X, el hipotético noveno planeta del Sistema Solar. La probabilidad de que sea una casualidad estadística, dicen desde Caltech, se ha reducido a un ~0,001%.
 
 
 
@@ -18,4 +18,4 @@ El nuevo integrante se llama uo3L91 y fue descubierto por el observatorio Canad�
 
 Las afirmaciones de Mike Brown en Twitter son preliminares y aún no se han publicado en ninguna revista científica. Sin embargo, OSSOS está estudiando nuevos objetos del Cinturón de Kuiper para comprobar si sus movimientos son consistentes con la teoría del astrónomo o si existe alguna otra explicación para sus órbitas excéntricas.
 
-La comunidad científica seguirá siendo escéptica sobre la existencia del Planeta X mientras no se consiga una detección directa. El supuesto astro está tan lejos que no refleja la luz del Sol, pero eso no explica por qué no hemos observado aún la radiación infrarroja de su propia energía. Estas nuevas evidencias podrían empujar a los astrónomos a hacer búsquedas específicas en el área predicha por la hipótesis. [Mike Brown vía The Verge] </center>
+La comunidad científica seguirá siendo escéptica sobre la existencia del Planeta X mientras no se consiga una detección directa. El supuesto astro está tan lejos que no refleja la luz del Sol, pero eso no explica por qué no hemos observado aún la radiación infrarroja de su propia energía. Estas nuevas evidencias podrían empujar a los astrónomos a hacer búsquedas específicas en el área predicha por la hipótesis. [Mike Brown vía The Verge] <-
