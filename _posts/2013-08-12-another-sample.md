@@ -1,5 +1,5 @@
 ---
-layout: postprueba
+layout: post
 title: Another sample
 categories:
 - blog
