@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-<font face="Times New Roman" font size="5"> <p>Los astrónomos han encontrado un nuevo objeto transneptuniano cuya órbita se puede explicar con la existencia de un Planeta X, el hipotético noveno planeta del Sistema Solar. La probabilidad de que sea una casualidad estadística, dicen desde Caltech, se ha reducido a un ~0,001%.</p>
+<font face="Times New Roman" font size="5" style="font-size:19px"> <p>Los astrónomos han encontrado un nuevo objeto transneptuniano cuya órbita se puede explicar con la existencia de un Planeta X, el hipotético noveno planeta del Sistema Solar. La probabilidad de que sea una casualidad estadística, dicen desde Caltech, se ha reducido a un ~0,001%.</p>
 
 
 
