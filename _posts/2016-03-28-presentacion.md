@@ -13,6 +13,6 @@ categories:
 
 <p>Sugerencias y contacto: pabrodrod1@alum.us.es</p>
 
-//fonts.googleapis.com/css?family=Open+Sans:600,800
+
 
 <font face="Times New Roman" style="font-size:19px">
