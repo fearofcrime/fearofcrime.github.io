@@ -1,6 +1,6 @@
 ---
-layout: postprueba
-title: Another sample
+layout: postpruebacont
+title: Título de prueba
 categories:
 - blog
 ---
