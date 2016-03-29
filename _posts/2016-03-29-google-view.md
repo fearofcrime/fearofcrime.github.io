@@ -5,5 +5,5 @@ categories:
 - blog
 ---
 
-referencia [^1]
-[^1] aquí
+referencia [1]
+[1] aquí
