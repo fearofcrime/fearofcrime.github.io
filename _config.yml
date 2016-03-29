@@ -1,6 +1,8 @@
 # General Jekyll Config
-highlighter: pygments
-url: http://example.com
-markdown: kramdown
-lsi: false
+
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
