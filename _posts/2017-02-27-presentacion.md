@@ -1,5 +1,5 @@
 ---
-layout: postpruebacont
+layout: post
 title: Presentación y justificación
 categories:
 - blog
