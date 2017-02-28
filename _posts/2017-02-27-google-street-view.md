@@ -1,5 +1,5 @@
 ---
-layout: postpruebacont
+layout: post
 title: Google Street View como herramienta válida en una investigación
 categories:
 - blog
