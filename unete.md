@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Unete
+title: 
 permalink: /unete/
 ---
-<h1>Introducción</h1>
+<h>Introducción</h>
 <p>El considerable flujo de investigación académica general y sobre la inseguridad subjetiva en concreto se verían beneficiados con la creación de nuevos puntos de reunión de investigadores y estudiantes. Ante la escasez de blogs sobre criminología en inglés y, especialmente, en español, una plataforma que sirva de portal de información y, al mismo tiempo, de lugar de debate y reflexión, habilitaría nuevas colaboraciones entre interesados y presentaría a grandes rasgos una noción de “actualidad” sobre la materia.</p>
 
 <h1>Objetivo y Objeto</h1>
