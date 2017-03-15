@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La importancia de aprender de otras áreas para innovar en la metodológica
+title: La importancia de aprender de otras áreas para innovar en la metodología (I)
 categories:
 - blog
 ---
