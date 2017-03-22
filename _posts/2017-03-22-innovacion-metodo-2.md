@@ -35,7 +35,7 @@ categories:
 
 <p> Inspirándose en las metodologías de reciente aparición arriba explicadas, Solymosi et al. (2015) [5] desarrollan una alternativa para la evaluación del miedo al delito de manera más o menos inmediata. </p>
 
-<p></p>
+<p>---</p>
 
 <p>[1] Sagl, G., Resch, B., Hawelka, B. y Beinat, E. (2012). From Social Sensor Data to Collective Human Behaviour Patterns – Analysing and Visualising Spatio-Temporal Dynamics in Urban Environments. En: Jekel, T., Car, A., Strobl, J. y Griesebner, G. (Eds.) Lecture Notes in Geoinformation and Cartography (2012): GI_Forum 2012: Geovizualisation, Society and Learning. <a href="http://senseable.mit.edu/papers/pdf/20121109_Sagl_etal_FromSocial_Forum2012.pdf" target="_blank">Disponible online</a></p>
 
