@@ -33,7 +33,9 @@ categories:
 <li>d. Monitoreo psico-fiosiológico. Con ayuda de tecnología apropiada, la medición de cambios en reacciones corporales ocurre en tiempo real. Asumiendo un uso exclusivo de smartphones en la obtención de información en campo, dos parámetros biométricos son los más apropiados: temperatura corporal junto a la actividad electrodermal (de darse una experiencia o emoción negativa la actividad electrodermal, o relación producción- absorción de sudor, aumenta y la temperatura corporal disminuye); y el ritmo cardíaco. </li>
 </ul>   
 
-<p> Inspirándose en las metodologías de reciente aparición arriba explicadas, Solymosi et al. (2015) desarrollan una alternativa para la evaluación del miedo al delito de manera más o menos inmediata. </p>
+<p> Inspirándose en las metodologías de reciente aparición arriba explicadas, Solymosi et al. (2015) [5] desarrollan una alternativa para la evaluación del miedo al delito de manera más o menos inmediata. </p>
+
+<p></p>
 
 <p>[1] Sagl, G., Resch, B., Hawelka, B. y Beinat, E. (2012). From Social Sensor Data to Collective Human Behaviour Patterns – Analysing and Visualising Spatio-Temporal Dynamics in Urban Environments. En: Jekel, T., Car, A., Strobl, J. y Griesebner, G. (Eds.) Lecture Notes in Geoinformation and Cartography (2012): GI_Forum 2012: Geovizualisation, Society and Learning. <a href="http://senseable.mit.edu/papers/pdf/20121109_Sagl_etal_FromSocial_Forum2012.pdf" target="_blank">Disponible online</a></p>
 
@@ -42,3 +44,4 @@ categories:
 
 <p>[3] Wikström, P., Ceccato, V., hardie, B. y Treiber, K. (2010). Activity Fields and the Dynamics of Crime. Journal of Quantitative Criminology, 26 (1): 55-87.
 <p>[4] Zeil, P., Resch, B., Exner, J. y Sagl, G. (2015). Urban Emotions: Benefits and Risks in Using Human Sensory Assessment for the Extraction of Contextual Emotion Information in Urban Planning. En: S. Geertman et al. (eds.), Planning Support Systems and Smart Cities, Lecture Notes in Geoinformation and Cartography (pp. 209-225). Suiza: Springer.
+<p> Solymosi, R., Bowers, K. and Fujiyama, T. (2015), Mapping fear of crime as a context-dependent everyday experience that varies in space and time. Leg Crim Psychol, 20: 193–211 </p>
